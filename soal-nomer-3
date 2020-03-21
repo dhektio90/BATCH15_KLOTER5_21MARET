@@ -1,0 +1,14 @@
+<?php
+$tgl_skrg = date("d-M-Y");
+echo (" $tgl_skrg ");
+$tgl_besok = date("d M Y",time()+60*60*24);
+echo (" $tgl_besok ");
+$tgl_lusa = date("d M Y",time()+60*60*24*2);
+echo (" $tgl_lusa ");
+
+
+
+
+
+
+?>
