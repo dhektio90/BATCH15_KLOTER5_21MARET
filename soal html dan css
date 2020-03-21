@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title> JUAL BELI MOBIL DUMBWAYS</title>
+        </head>
+        <body bgcolor="yellow" text="red" >
+                
+                <h1>DEALER MOBIL DUMBWAYS</h1>
+                <h3>CUSTOMER</h3>
+                <table border="3" cellpadding="10">
+                        <tr>
+                         <td>No.</td>
+                         <td>ID PELANGGAN</td>
+                         <td>NAMA PELANGGAN</td>
+                         <td>EMAIL</td>
+                         <td>ALAMAT RUMAH</td>
+                        </tr>
+                        <tr>
+                         <td>1.</td>
+                         <td>08131234567</td>
+                         <td>AJI TIO KUSWANDHITO</td>
+                         <td>dhektio90@gmail</td>
+                         <td>MALANG</td>
+                        </tr>
+                        
+                </table>
+                
+                <h3>BRAND</h3>
+                <table border="3" cellpadding="10">
+                        <tr>
+                          <td>ID</td>
+                          <td>NAMA</td>
+                        </tr>
+                        <tr>
+                          <td>01</td>
+                          <td>HONDA</td>
+                        </tr>
+                </table>
+                
+                <h3>DAFTAR MOBIL</h3>
+                <table border="3" cellpadding="10">
+                        <tr>
+                          <td>ID</td>
+                          <td>NAMA</td>
+                          <td>BRAND ID</td>
+                          <td>GAMBAR</td>
+                          <td>WARNA</td>
+                          <td>DESKRIPSI</td>
+                          <td>CREATE TIME</td>
+                          <td>UPDATE TIME</td>
+                          <td>JUMLAH BARANG</td>
+                        </tr>
+                        
+                        <tr>
+                          <td>1</td>
+                          <td>HONDA BRIO</td>
+                          <td>01</td>
+                          <td><img src=https://storage.jualo.com/zoom/3770945/honda-brio-rs-manual-mobil-honda-3770945.jpg width="200"></td>
+                          <td>PUTIH</td>
+                          <td>MULUS</td>
+                          <td>2019</td>
+                          <td>2020</td>
+                          <td>5</td>
+                        </tr>
+                </table>
+                
+                
+                
+                
+                
+                
+        </body>
+        
+        
+        
+</html>
